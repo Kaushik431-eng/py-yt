@@ -6,3 +6,5 @@ x = 9  # final exam score
 
 print("this is a print")
 print("hii python")
+
+print('hello "python"')
